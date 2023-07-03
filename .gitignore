@@ -1,0 +1,27 @@
+# wp-content/themes/polisetty-theme/assets/css/theme-styles.css
+# wp-content/themes/polisetty-theme/assets/css/theme-styles.css.map
+# wp-content/themes/polisetty-theme/assets/css/style.min.css
+# wp-content/themes/polisetty-theme/assets/js/theme_script.min.js
+# wp-content/themes/polisetty-theme/assets/js/home/minified
+# wp-content/themes/polisetty-theme/assets/js/about/minified
+# wp-content/themes/polisetty-theme/assets/js/common/minified
+# wp-content/themes/polisetty-theme/.htaccess
+# wp-config
+# wp-content/backups-dup-lite/*
+# wp-content/plugins/duplicator/*
+# wp-content/uploads/*
+# wp-config
+# wp-content/themes/polisetty-theme/dist/*
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+wp-content/plugins/*
+
+# OS generated files 
+.DS_Store
+node_modules
